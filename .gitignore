@@ -1,0 +1,5 @@
+build/
+loom/
+node_modules/
+loom_private_key
+loom_public_key
